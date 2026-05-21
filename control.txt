@@ -1,0 +1,6 @@
+epsilon_base:3
+epsilon:3
+lr:0.0001
+apple:300
+death:-1000
+step:-0.02
